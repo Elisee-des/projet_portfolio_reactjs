@@ -1,5 +1,5 @@
 header {
-    height: 159vh;
+    height: 130vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -58,4 +58,23 @@ header {
     transform: rotate(90deg);
     font-weight: 200;
     font-size: 0.9rem;
+}
+
+/*======================== MEDIA QUERIES (MEDIUM DEVICE-md) ==============================*/
+@media screen and (max-width: 1024px) {
+    header {
+        height: 68vh;
+    }
+}
+
+/*======================== MEDIA QUERIES (SMALL DEVICE-md) ==============================*/
+@media screen and (max-width: 600px) {
+    header {
+        height: 180vh;
+    }
+
+        .header__socials, 
+        .scroll_down {
+            display: none;
+        }
 }
