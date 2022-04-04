@@ -1,5 +1,5 @@
 header {
-    height: 180vh;
+    height: 120vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -60,18 +60,18 @@ header {
     font-size: 0.9rem;
 }
 
-/*======================== MEDIA QUERIES (MEDIUM DEVICE-md) ==============================*/
-@media screen and (max-width: 1024px) {
-    header {
-        height: 60vh;
+    /*======================== MEDIA QUERIES (MEDIUM DEVICE-md) ==============================*/
+    @media screen and (max-width: 1024px) {
+        header {
+            height: 60vh;
+        }
     }
-}
 
-/*======================== MEDIA QUERIES (SMALL DEVICE-md) ==============================*/
-@media screen and (max-width: 600px) {
-    header {
-        height: 100vh;
-    }
+    /*======================== MEDIA QUERIES (SMALL DEVICE-md) ==============================*/
+    @media screen and (max-width: 600px) {
+        header {
+            height: 100vh;
+        }
 
         .header__socials, 
         .scroll_down {
