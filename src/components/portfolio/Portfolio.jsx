@@ -26,7 +26,7 @@ const Portfolio = () => {
                 </article>
                 <article className="portfolio__item">
                     <div className="portfolio__item-image">
-                        <img src={IMG1} alt="image1" />
+                        <img src={IMG2} alt="image1" />
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -36,7 +36,7 @@ const Portfolio = () => {
                 </article>
                 <article className="portfolio__item">
                     <div className="portfolio__item-image">
-                        <img src={IMG1} alt="image1" />
+                        <img src={IMG3} alt="image1" />
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -46,7 +46,7 @@ const Portfolio = () => {
                 </article>
                 <article className="portfolio__item">
                     <div className="portfolio__item-image">
-                        <img src={IMG1} alt="image1" />
+                        <img src={IMG4} alt="image1" />
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -56,7 +56,7 @@ const Portfolio = () => {
                 </article>
                 <article className="portfolio__item">
                     <div className="portfolio__item-image">
-                        <img src={IMG1} alt="image1" />
+                        <img src={IMG5} alt="image1" />
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -66,7 +66,7 @@ const Portfolio = () => {
                 </article>
                 <article className="portfolio__item">
                     <div className="portfolio__item-image">
-                        <img src={IMG1} alt="image1" />
+                        <img src={IMG6} alt="image1" />
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
